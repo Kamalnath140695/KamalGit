@@ -62,3 +62,5 @@ var color = "red"
 console.log(bike[0].model)
 
 hide
+
+new program
